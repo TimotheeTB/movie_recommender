@@ -85,7 +85,6 @@ cs=get_cosine_sim(cm)
 
 # content base
 
-# code Baptiste
 def userinput():
     title=st.text_input("Entrez le titre")
     return title.lower()
